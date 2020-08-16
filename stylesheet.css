@@ -1,0 +1,97 @@
+/*--Color and font change*/
+p{
+  color: Purple;
+  font-size: 19px;
+}
+
+h1{
+  font-family: times;
+  font-size: 31px;
+  color: magenta;
+  text-align: center;
+  text-decoration: underline;
+}
+
+body{
+  background-color: lightblue;
+  font-family: helvetica;
+}
+
+h2{
+  font-family: arial;
+  color: red;
+  text-align: center;
+  font-size: 24px;
+}
+
+h3{
+  color:Purple;
+    padding-left: 2%;
+}
+
+img{
+  width:51%;
+  height:21%
+}
+
+.myCenteredImage{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 0px solid blue;
+}
+
+.two{
+  text-align: left;
+  color: Purple
+}
+
+.one{
+  font-family: times;
+  font-size: 31px;
+  color: magenta;
+  text-align: center;
+  background-color: blue;
+}
+
+.Menu {
+  background-color: steelblue;
+  padding: 0%;
+  list-style:none;
+  margin:0%;
+  overflow: hidden;
+}
+
+.Menu li {
+  float:left;
+}
+
+.Menu li a {
+  display:block;
+  color: aquamarine;
+  text-align: center;
+  padding: 14px;
+}
+
+.footer ul{
+  background-color: darkblue;
+  padding: 0%;
+  list-style:none;
+  margin:0%;
+  overflow: hidden;
+}
+
+.footer li{
+  float:left;
+}
+
+.footer li a{
+  display:block;
+  color: white;
+  padding: 41px 16px;
+  text-decoration:none;
+}
+
+p{
+  padding-left: 2%;
+}
